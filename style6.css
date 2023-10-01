@@ -1,0 +1,79 @@
+body{
+    background: linear-gradient(
+        to left,
+        navy,
+        white,
+        white,
+        navy
+    ); 
+}
+
+.main{
+    text-align: center;
+    color: navy;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pdf{
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(247, 179, 9);
+    font-size: 30px;
+    position: fixed;
+    top: -5%;
+}
+
+.pdf1{
+        text-align: center;
+        margin-top: 100px;
+        color: rgb(97, 71, 4);
+        font-size: 30px;}
+
+th{
+    color: red;
+}
+
+
+.maths{
+    background-color: aqua;
+    padding: 30px;
+    color: navy;
+   
+}
+
+a{
+    
+    color: gold;
+    text-align: center;
+
+}
+
+
+button {
+    background-color: #1e0772; /* Green */
+    border: none;
+    color: gold;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+  }
+  
+  button {
+    background-color: rgb(4, 32, 124); 
+    color: black; 
+    border: 2px solid #420583;
+  }
+  
+  button:hover {
+    background-color: #2ceffd;
+   
+  }
+  
+

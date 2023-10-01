@@ -1,0 +1,41 @@
+body{ 
+    background: linear-gradient(
+        to left,
+        navy,
+        white,
+        white,
+        navy
+    );
+}
+
+.head{
+     color: white;
+}
+
+
+table{
+    margin-left: 325px;
+    margin-top: 90px;
+    background-color: crimson;
+    color: cyan;
+}
+
+th{
+    color: gold;
+    font-weight: 900;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.top{
+    font-size: 50px;
+    
+}
+
+td{
+    background-color: aquamarine;
+    color: blue;
+    padding: 20px;
+    font-size: 30px;
+    
+}

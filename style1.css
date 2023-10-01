@@ -1,0 +1,45 @@
+form{
+    padding: 10%;
+    background-color: rgb(245, 252, 253);
+    border: 5px rgb(0, 0, 0) double;
+    border-radius: 20px 20px 20px 20px;
+}
+
+input{ font-size: 100%;
+    font-family: cursive;
+    margin-left: 10px;
+    background-color: navy;
+    color: gold;
+    cursor: pointer;
+}
+
+
+
+.inp{
+    margin-left: 53px;
+    
+ 
+}
+
+button{
+    padding: 8px 8px 8px 8px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: navy;
+    color: gold;
+    margin-left: 400px;
+}
+
+.inpu{
+    margin-left: 350px;
+    font-weight: 900;
+    color: rgb(95, 1, 1);
+    
+}
+
+
+body{
+    background-color: black;
+}

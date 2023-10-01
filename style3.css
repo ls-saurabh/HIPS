@@ -1,0 +1,111 @@
+body{
+    background: linear-gradient(
+        to left,
+        navy,
+        white,
+        white,
+        white,
+        navy
+    );
+}
+
+.head{
+    text-align: center;
+    color: maroon;
+    font-size: 50px;
+}
+
+.math{
+    height: 200px;
+    width: 200px;
+}
+
+.comp{
+    height: 200px;
+    width: 200px;
+}
+.scie{
+    height: 200px;
+}
+
+.hin{
+    height: 200px;
+}
+
+.eng{
+    margin-left: 170px;
+}
+.sst{
+    height: 200px;
+   margin-left: 200px;
+   padding-top: 2%;
+}
+
+.one,.two{
+    margin-left: 200px;
+}
+
+.ma{
+    position: absolute;
+    top: 52%; /* Adjust to position vertically */
+    left: 22%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.co{
+    position: absolute;
+    top: 52%; /* Adjust to position vertically */
+    left: 52%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.sc{
+    position: absolute;
+    top: 52%; /* Adjust to position vertically */
+    left: 80%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+.hi{
+    position: absolute;
+    top: 90%; /* Adjust to position vertically */
+    left: 23%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.ss{
+    position: absolute;
+    top: 90%; /* Adjust to position vertically */
+    left: 50%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.en{
+    position: absolute;
+    top: 90%; /* Adjust to position vertically */
+    left: 79%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}

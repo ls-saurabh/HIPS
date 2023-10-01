@@ -1,0 +1,255 @@
+body{
+    background-color: rgb(0, 0, 48);
+    color: white;
+}
+
+.header{
+    background: linear-gradient(
+        to left,
+        navy,
+        rgb(12, 24, 24),
+        navy
+    );
+}
+
+
+.title{
+    color: gold;
+    text-align: center;
+}
+
+.hips{
+    height: 100px;
+    width: 100px;
+   margin-left: 45%;
+
+}
+
+.sk{
+    height: 10%;
+    width: 8%;
+    border: 2px gold double;
+    border-radius: 50%;
+    margin-left: 610px;
+}
+
+.name{
+    margin-left: 602px;
+    color: rgb(142, 142, 248);
+}
+
+
+.content{
+    background: linear-gradient(
+        to left,
+        navy,
+        rgb(5, 22, 22),
+        navy
+        )
+        ;
+
+}
+
+
+
+
+.link{
+    color: rgb(19, 4, 77);
+    font-size: 20px;
+margin-left: 50%;
+
+}
+
+.content1{
+    margin-left: 00px;
+    padding: 50px;
+}
+
+
+.con{
+    height: 10%;
+    margin-left: -400;
+   
+    
+}
+
+.cont{
+    background: linear-gradient(
+        to left,
+        navy,
+        white,
+        white,
+        white,
+        white,
+        navy
+    );
+}
+
+.admin{
+    margin-left: -300px;
+}
+
+.ec{
+    margin-left: 300px;
+    margin-top: -65px;
+}
+
+.lib{
+    margin-left: 285px;
+    margin-top: -75px;
+}
+
+.syl{
+    margin-left: 300px;
+    margin-top: -65px;
+}
+
+.res{
+    margin-left: -284px;
+    
+}
+
+.clas{
+    margin-left: 300px;
+    margin-top: -75px;
+}
+
+.noti{
+    position: absolute;
+    top: 85%; /* Adjust to position vertically */
+    left: 23%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.adm{
+    position: absolute;
+    top: 85%; /* Adjust to position vertically */
+    left: 51%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.econ{
+    position: absolute;
+    top: 85%; /* Adjust to position vertically */
+    left: 74%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.at{
+    position: absolute;
+    top: 110%; /* Adjust to position vertically */
+    left: 23%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.hw{
+    position: absolute;
+    top: 110%; /* Adjust to position vertically */
+    left: 51%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.how{
+    margin-left: -286px;
+}
+
+.li{
+    position: absolute;
+    top: 110%; /* Adjust to position vertically */
+    left: 75%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.exa{
+    position: absolute;
+    top: 136%; /* Adjust to position vertically */
+    left: 23%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.resu{
+    position: absolute;
+    top: 136%; /* Adjust to position vertically */
+    left: 52%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.syll{
+    position: absolute;
+    top: 136%; /* Adjust to position vertically */
+    left: 75%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.tt{
+    position: absolute;
+    top: 163%; /* Adjust to position vertically */
+    left: 23%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.bus{
+    position: absolute;
+    top: 163%; /* Adjust to position vertically */
+    left: 52.5%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
+
+.bb{
+    margin-left: -275px;
+}
+
+.cm{
+    position: absolute;
+    top: 163%; /* Adjust to position vertically */
+    left: 75%; /* Adjust to position horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity */
+    color: #fff; /* Text color */
+    padding: 4px; /* Adjust the padding */
+    font-size: 18px; /* Adjust the font size */
+}
